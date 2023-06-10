@@ -1,4 +1,4 @@
-package alsailani.sardja.powervar
+package robin.sardja.powervar
 
 import org.junit.Test
 
