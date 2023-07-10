@@ -1,4 +1,4 @@
-package robin.sardja.powervar
+package robin.sardja.powervar_android_studio
 
 import org.junit.Test
 

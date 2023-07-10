@@ -1,4 +1,4 @@
-package robin.sardja.powervar
+package robin.sardja.powervar_android_studio
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

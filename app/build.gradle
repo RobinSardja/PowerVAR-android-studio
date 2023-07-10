@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'robin.sardja.powervar'
+    namespace 'robin.sardja.powervar_android_studio'
     compileSdk 33
 
     defaultConfig {
-        applicationId "robin.sardja.powervar"
+        applicationId "robin.sardja.powervar_android_studio"
         minSdk 24
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package robin.sardja.powervar
+package robin.sardja.powervar_android_studio
 
 import android.Manifest
 import android.content.ContentValues
@@ -13,7 +13,7 @@ import androidx.camera.video.Recording
 import androidx.camera.video.VideoCapture
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import robin.sardja.powervar.databinding.ActivityMainBinding
+import robin.sardja.powervar_android_studio.databinding.ActivityMainBinding
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 import android.widget.Toast
